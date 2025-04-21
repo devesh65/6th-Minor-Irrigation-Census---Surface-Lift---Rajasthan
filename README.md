@@ -1,3 +1,5 @@
+6TH-MINOR-IRRIGATION-CENSUS-SURFACE-LIFT-RAJASTHAN
+
 Thrilled to share my latest Data Science project – Decoding Rajasthan’s Surface Lift Irrigation Schemes through the 6th Minor Irrigation Census! 💧📊
 🌾 Project Overview:
  This project dives into the 6th Minor Irrigation Census data, specifically focusing on Surface Lift Irrigation schemes in Rajasthan — a critical component in ensuring sustainable water access for agriculture in arid regions. With rich, real-world data on scheme ownership, energy usage, water distribution, and seasonal irrigation, I aimed to uncover patterns that can drive smarter policy and infrastructure decisions.
