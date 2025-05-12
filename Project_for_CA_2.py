@@ -133,6 +133,6 @@ plt.ylabel('Number of Villages')
 plt.xlabel('')
 plt.tight_layout()
 plt.show()
-
+plt.show()
 
 
